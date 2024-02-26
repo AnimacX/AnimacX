@@ -1,7 +1,7 @@
 <img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
 <p align="right">Icon by <a href="https://www.icons8.com">icons8</a></p>
 
-# AnimacX
+# AnimacX - Anime for mac
 
 >（弹弹Play MacOS版）一款可以追番的弹幕视频播放器
 
