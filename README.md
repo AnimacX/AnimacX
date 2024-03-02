@@ -9,7 +9,13 @@
 
 ## 应用介绍
 
-![截屏2024-02-26 22 07 46](https://github.com/AnimacX/AnimacX/assets/55338151/679848d7-d790-4c9b-827e-00fb4df83bcc)
+白昼模式:
+
+<img width="1624" alt="截屏2024-03-02 16 09 43" src="https://github.com/AnimacX/AnimacX/assets/55338151/b4cd7b1c-1b0e-46a1-9e5c-87fb5e09ebe2">
+
+黑夜模式:
+
+<img width="1624" alt="截屏2024-03-02 16 14 50" src="https://github.com/AnimacX/AnimacX/assets/55338151/b1849ce3-2b9c-4867-8f25-8d4bbeb02784">
 
 *仅支持MacOS 14.0以上的系统*
 
