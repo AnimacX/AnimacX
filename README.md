@@ -7,11 +7,13 @@
 
 🚀 在Release中浏览最新发布的版本以及更新信息
 
-弹弹Play Windows版想必有不少人用过，先审后播时代来临后我就转向了线下追番了，弹弹Play能提供在线弹幕，体验非常不错。后来电脑换成了Macbook，这个软件就只能使用官网上提供的mac版本了，缺少很多追番的体验，于是乎就自己从零学swift开发，成功开发了macOS版本平替，有兴趣的友友不妨试用一下
+弹弹Play Windows版想必有不少人用过，先审后播时代来临后我就转向了线下追番了，弹弹Play能提供在线弹幕，体验非常不错。后来电脑换成了Macbook，这个软件就只能使用官网上提供的mac版本了，缺少很多追番的体验，于是乎就自己从零学swift开发，成功开发了macOS版本平替，有兴趣的朋友不妨试用一下。
+
+最近尝试适配了iOS系统，有条件的可以下载发布页中的Debug版本尝鲜。
 
 ## 应用介绍
 
-*稳定版发布前将仅支持MacOS 14.0以上的系统*
+*目前仅支持`MacOS 14.0`和`iOS 17.0`以上的系统*
 
 ### 功能特性
 
@@ -24,7 +26,7 @@
 - [ ] 网络视频连接播放
 - [ ] Pikpak离线观看/下载
 
-### UI界面
+### macOS UI界面
 
 白昼模式:
 
@@ -33,3 +35,10 @@
 黑夜模式:
 
 <img width="1624" alt="截屏2024-03-02 16 14 50" src="https://github.com/AnimacX/AnimacX/assets/55338151/b1849ce3-2b9c-4867-8f25-8d4bbeb02784">
+
+### iOS UI界面
+
+<img height="600" alt="Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 20 38 30" src="https://github.com/AnimacX/AnimacX/assets/55338151/87dad0b4-105f-4deb-a6c2-1384592e04a6">
+<img height="600" alt="Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 20 39 18" src="https://github.com/AnimacX/AnimacX/assets/55338151/73928b8f-3d76-44b5-9597-18d6c19e020d">
+
+
