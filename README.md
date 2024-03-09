@@ -34,7 +34,7 @@
 
 黑夜模式:
 
-<img width="1624" alt="截屏2024-03-02 16 14 50" src="https://github.com/AnimacX/AnimacX/assets/55338151/b1849ce3-2b9c-4867-8f25-8d4bbeb02784">
+<img width="1624" alt="截屏2024-03-02 16 14 50" src="https://github.com/AnimacX/AnimacX/assets/55338151/1d37f8e2-afcf-4434-b0c5-950ac9568363">
 
 ### iOS UI界面
 
