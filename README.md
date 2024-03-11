@@ -28,17 +28,12 @@
 
 ### macOS UI界面
 
-白昼模式:
-
-<img width="1624" alt="截屏2024-03-02 16 09 43" src="https://github.com/AnimacX/AnimacX/assets/55338151/b4cd7b1c-1b0e-46a1-9e5c-87fb5e09ebe2">
-
-黑夜模式:
-
 <img width="1624" alt="截屏2024-03-02 16 14 50" src="https://github.com/AnimacX/AnimacX/assets/55338151/1d37f8e2-afcf-4434-b0c5-950ac9568363">
 
 ### iOS UI界面
 
-<img height="600" alt="Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 20 38 30" src="https://github.com/AnimacX/AnimacX/assets/55338151/87dad0b4-105f-4deb-a6c2-1384592e04a6">
-<img height="600" alt="Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 20 39 18" src="https://github.com/AnimacX/AnimacX/assets/55338151/73928b8f-3d76-44b5-9597-18d6c19e020d">
+<img width="1624" alt="Simulator Screenshot - iPhone 15 Pro - 2024-03-11 at 21 30 34" src="https://github.com/AnimacX/AnimacX/assets/55338151/8ae412fa-052e-40ba-9ad2-94b918c53da0">
+
+<img width="1624" alt="Simulator Screenshot - iPhone 15 Pro - 2024-03-11 at 21 30 56" src="https://github.com/AnimacX/AnimacX/assets/55338151/45b60285-18bb-4b26-8446-0b8b92aadd7a">
 
 
