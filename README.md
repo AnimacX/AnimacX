@@ -5,11 +5,7 @@
 
 >（弹弹Play MacOS版）一款可以追番的弹幕视频播放器
 
-🚀 在Release中浏览最新发布的版本以及更新信息
-
-弹弹Play Windows版想必有不少人用过，先审后播时代来临后我就转向了线下追番了，弹弹Play能提供在线弹幕，体验非常不错。后来电脑换成了Macbook，这个软件就只能使用官网上提供的mac版本了，缺少很多追番的体验，于是乎就自己从零学swift开发，成功开发了macOS版本平替，有兴趣的朋友不妨试用一下。
-
-最近尝试适配了iOS系统，有条件的可以下载发布页中的Debug版本尝鲜。
+🚀 在Release中浏览最新发布的版本以及更新信息或[直接下载最新版本](https://animacx.pressed.top/api/v1/release/download/latest?s=github.com)
 
 ## 应用介绍
 
