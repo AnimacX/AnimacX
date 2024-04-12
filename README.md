@@ -38,7 +38,7 @@
 
 #### 个人资料
 
-![截屏2024-03-23 18 25 57](https://github.com/AnimacX/AnimacX/assets/55338151/058f7684-cdf5-4aec-ae6e-680dc6903d77)
+<img width="1331" alt="截屏2024-04-12 23 31 10" src="https://github.com/AnimacX/AnimacX/assets/55338151/9514b77f-344b-4c2f-9d0c-8be2510ae784">
 
 ### iOS UI界面
 
