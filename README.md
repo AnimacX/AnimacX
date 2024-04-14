@@ -26,6 +26,8 @@
 
 ### macOS UI界面
 
+截图可能来自旧版本、内部赞助版本，最终效果以软件内展示为准
+
 #### 播放器
 
 ![截屏2024-03-23 18 52 32](https://github.com/AnimacX/AnimacX/assets/55338151/d2a4b26d-5a25-4024-8b8b-24c44a8fdc19)
@@ -34,7 +36,7 @@
 
 ![截屏2024-03-23 19 24 39](https://github.com/AnimacX/AnimacX/assets/55338151/90b47eed-d47d-40c6-9b56-f2ddb3c5ed71)
 
-![截屏2024-03-23 17 11 04](https://github.com/AnimacX/AnimacX/assets/55338151/9c26152d-db78-4abb-999a-6444edaefda9)
+![image](https://github.com/AnimacX/AnimacX/assets/55338151/2554aba2-2d2e-4f76-996e-694358e48619)
 
 #### 个人资料
 
