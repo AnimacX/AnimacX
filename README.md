@@ -7,6 +7,8 @@
 
 <a href="https://afdian.net/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
 
+(在爱发电赞助的用户，可以下载具有最新功能的测试版）
+
 🚀 在Release中浏览最新发布的版本以及更新信息或[直接下载最新版本](https://animacx.pressed.top/api/v1/release/download/latest?s=github.com)
 
 ## 应用介绍
