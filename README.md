@@ -32,7 +32,7 @@
 
 #### 播放器
 
-![截屏2024-04-22 19 45 54](https://github.com/AnimacX/AnimacX/assets/55338151/cefdea91-ff6c-4f29-a25d-2c3366a17bca)
+<img width="1624" alt="截屏2024-04-22 20 41 57" src="https://github.com/AnimacX/AnimacX/assets/55338151/abe7410d-4dd0-4c5e-a9db-29fac3fb4513">
 
 #### 番剧资讯
 
