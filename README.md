@@ -51,6 +51,8 @@
 
 #### 其他界面
 
+<img width="240" alt="0" src="https://github.com/AnimacX/AnimacX/assets/55338151/ce5684f4-3e1b-4a06-bc6b-d9a9f99c20eb">
+
 <img width="240" alt="1" src="https://github.com/AnimacX/AnimacX/assets/55338151/21f083f0-3994-4ac0-9529-dd7ef5e055c2">
 
 <img width="240" alt="2" src="https://github.com/AnimacX/AnimacX/assets/55338151/218af06e-ed27-446d-bd60-2e7671ff413e">
