@@ -35,7 +35,7 @@
 
 #### 番剧资讯
 
-![截屏2024-03-23 19 24 39](https://github.com/AnimacX/AnimacX/assets/55338151/90b47eed-d47d-40c6-9b56-f2ddb3c5ed71)
+<img width="1498" alt="image" src="https://github.com/AnimacX/AnimacX/assets/55338151/fbdb6cbd-a86e-42e9-995f-73ce3878c35e">
 
 ![image](https://github.com/AnimacX/AnimacX/assets/55338151/2554aba2-2d2e-4f76-996e-694358e48619)
 
