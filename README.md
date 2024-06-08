@@ -40,7 +40,7 @@
 
 <img width="1498" alt="image" src="https://github.com/AnimacX/AnimacX/assets/55338151/fbdb6cbd-a86e-42e9-995f-73ce3878c35e">
 
-![image](https://github.com/AnimacX/AnimacX/assets/55338151/2554aba2-2d2e-4f76-996e-694358e48619)
+<img width="1513" alt="截屏2024-06-08 12 23 04" src="https://github.com/AnimacX/AnimacX/assets/55338151/99fabeb7-d3bd-451a-8728-84cdf677ca7e">
 
 #### 个人资料
 
