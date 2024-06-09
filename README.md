@@ -10,9 +10,8 @@
 
 <a href="https://afdian.net/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
 
+[🚀 下载最新版本](https://animacx.pressed.top/api/v1/release/download/latest?s=github.com)
 (在爱发电赞助的用户，可以下载具有最新功能的测试版）
-
-🚀 在Release中浏览最新发布的版本以及更新信息或[直接下载最新版本](https://animacx.pressed.top/api/v1/release/download/latest?s=github.com)
 
 ## 应用介绍
 
@@ -62,6 +61,9 @@
 
 <img width="240" alt="3" src="https://github.com/AnimacX/AnimacX/assets/55338151/e00d9b7a-95ce-42ee-952e-2a0736342c30">
 
+## 赞助者
 
+感谢这些来自爱发电的赞助者：
 
-
+<!-- AFDIAN-ACTION:START -->
+<!-- AFDIAN-ACTION:END -->
