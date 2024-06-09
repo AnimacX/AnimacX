@@ -1,4 +1,4 @@
-<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
+﻿<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
 <p align="right">Icon by <a href="https://www.icons8.com">icons8</a></p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/animacx/animacx?include_prereleases&style=for-the-badge)
@@ -66,4 +66,24 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
+
+<a href="https://afdian.net/u/8d8a49ac694511ecbf3052540025c377">
+    <img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_dRs8" title="爱发电用户_dRs8"/>
+</a>
+<a href="https://afdian.net/u/fbef516c120311efb29552540025c377">
+    <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_wBqN" title="爱发电用户_wBqN"/>
+</a>
+<a href="https://afdian.net/u/f4576fa4a2e111ecb05652540025c377">
+    <img src="https://pic1.afdiancdn.com/user/f4576fa4a2e111ecb05652540025c377/avatar/38279ef8fc9dbdd10cd7696cc7e4f6ef_w1170_h1593_s1644.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="吐司鱼" title="吐司鱼"/>
+</a>
+<a href="https://afdian.net/u/7d4c38f27f9211ed9f2e52540025c377">
+    <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Fwz233" title="Fwz233"/>
+</a>
+<a href="https://afdian.net/u/a9f983fe9bd511e9ac0c52540025c377">
+    <img src="https://pic1.afdiancdn.com/default/avatar/default-avatar@2x.png?imageView2/1/w/120/h/120" width="40" height="40" alt="linekm" title="linekm"/>
+</a>
+<a href="https://afdian.net/u/be22500cf9b511ee979b52540025c377">
+    <img src="https://pic1.afdiancdn.com/user/be22500cf9b511ee979b52540025c377/avatar/07af9d57534e5bf2c1fd17251e1e49e3_w378_h377_s32.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="Jayden" title="Jayden"/>
+</a>
+<!-- 注意: 尽量将标签前靠,否则经测试可能被 GitHub 解析为代码块 -->
 <!-- AFDIAN-ACTION:END -->
