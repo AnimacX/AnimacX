@@ -18,7 +18,7 @@ jobs:
           ref: main # 注意修改为你的分支, 例如: master
 
       - name: Afdian action
-        uses: yiyungent/afdian-action@main
+        uses: saddit/afdian-action@main
         with:
           # 在 Settings->Secrets 配置 AFDIAN_USERID, AFDIAN_TOKEN
           # 爱发电 user_id
