@@ -1,7 +1,8 @@
 @{
     var viewModel = (Afdian.Action.ViewModels.AfdianViewModel)@Model;
+    var curDate = DateTime.Now;
 }
-
+<span>更新时间：@curDate</span>
 @for (int i = 0; i < viewModel.Sponsor.data.list.Count(); i++)
 {
     @{ 
@@ -12,7 +13,6 @@
 <img src="@sponsorItem.user.avatar?imageView2/1/w/120/h/120" width="40" height="40" alt="@sponsorItem.user.name" title="@sponsorItem.user.name"/>
 </a>
 }
-
 <details>
 <summary>赞助者列表</summary>
 
