@@ -65,7 +65,7 @@
 
 感谢这些来自爱发电的赞助者：
 
-<!-- AFDIAN-ACTION:START -->
+<!-- 2024-06-10 02:45:38 --><!-- AFDIAN-ACTION:START -->
 
 <a href="https://afdian.net/u/8d8a49ac694511ecbf3052540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_dRs8" title="爱发电用户_dRs8"/>
@@ -115,5 +115,4 @@ Jayden
 <span>( 2 次赞助 )</span><br>
 
 </details>
-<!-- 注意: 尽量将标签前靠,否则经测试可能被 GitHub 解析为代码块 -->
 <!-- AFDIAN-ACTION:END -->
