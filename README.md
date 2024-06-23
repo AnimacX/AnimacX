@@ -24,8 +24,8 @@
 - [x] 番剧识别
 - [x] 发送弹幕
 - [x] 番剧资讯和追番：支持自动关联**部分**在线网络资源
+- [x] Pikpak（磁力链接）离线观看/下载
 - [ ] 番剧评论评分同步bangumi
-- [ ] Pikpak离线观看/下载
 
 ### macOS UI界面
 
@@ -34,6 +34,8 @@
 #### 播放器
 
 <img width="1624" alt="截屏2024-04-22 20 41 57" src="https://github.com/AnimacX/AnimacX/assets/55338151/08925129-2626-4e32-a171-a8df01001443">
+
+<img width="1624" alt="截屏2024-06-23 22 01 16" src="https://github.com/AnimacX/AnimacX/assets/55338151/544e2cbc-b754-4026-8697-82c2e5deddf5">
 
 #### 番剧资讯
 
@@ -44,6 +46,10 @@
 #### 个人资料
 
 <img width="1331" alt="截屏2024-04-12 23 31 10" src="https://github.com/AnimacX/AnimacX/assets/55338151/9514b77f-344b-4c2f-9d0c-8be2510ae784">
+
+#### 设置界面
+
+<img width="557" alt="截屏2024-06-23 21 53 37" src="https://github.com/AnimacX/AnimacX/assets/55338151/718991ea-cf1c-42ad-a4f8-4031f7f7276b">
 
 ### iOS UI界面
 
