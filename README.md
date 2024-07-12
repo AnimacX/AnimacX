@@ -72,8 +72,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2024-07-11 18:13:39 -->
+<!-- update time: 2024-07-12 11:08:53 -->
 
+<a href="https://afdian.net/u/d2a3c12a3fb311efbea452540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_rptd" title="爱发电用户_rptd"/>
+</a>
 <a href="https://afdian.net/u/3736871e619911eb822d52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_37368" title="爱发电用户_37368"/>
 </a>
@@ -102,6 +105,10 @@
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/d2a3c12a3fb311efbea452540025c377">
+爱发电用户_rptd
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/3736871e619911eb822d52540025c377">
 爱发电用户_37368
 </a>
@@ -133,7 +140,7 @@ linekm
 <a href="https://afdian.net/u/be22500cf9b511ee979b52540025c377">
 Jayden
 </a>
-<span>( 2 次赞助 )</span><br>
+<span>( 3 次赞助 )</span><br>
 
 </details>
 <!-- AFDIAN-ACTION:END -->
