@@ -8,7 +8,7 @@
 
 >（弹弹Play MacOS版）一款可以追番的弹幕视频播放器
 
-<a href="https://afdian.net/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
+<a href="https://afdian.com/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
 
 [🚀 下载最新版本](https://animacx.pressed.top/api/v1/release/download/latest?s=github.com)
 (在爱发电赞助的用户，可以下载具有最新功能的测试版）
