@@ -72,7 +72,7 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2024-11-18 18:16:27 -->
+<!-- update time: 2024-11-19 11:10:26 -->
 
 <a href="https://afdian.net/u/d673ccaaae9011eeb2075254001e7c00">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="yanbsh" title="yanbsh"/>
@@ -114,7 +114,7 @@
 <a href="https://afdian.net/u/d673ccaaae9011eeb2075254001e7c00">
 yanbsh
 </a>
-<span>( 1 次赞助 )</span><br>
+<span>( 2 次赞助 )</span><br>
 <a href="https://afdian.net/u/f159a986782f11efa9f95254001e7c00">
 爱发电用户_f159a
 </a>
