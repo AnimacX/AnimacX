@@ -72,8 +72,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2024-11-22 18:16:21 -->
+<!-- update time: 2024-11-23 11:09:09 -->
 
+<a href="https://afdian.net/u/0cb7c780a90911ef814752540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_EBx8" title="爱发电用户_EBx8"/>
+</a>
 <a href="https://afdian.net/u/d673ccaaae9011eeb2075254001e7c00">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="yanbsh" title="yanbsh"/>
 </a>
@@ -81,7 +84,7 @@
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_f159a" title="爱发电用户_f159a"/>
 </a>
 <a href="https://afdian.net/u/d2a3c12a3fb311efbea452540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_rptd" title="爱发电用户_rptd"/>
+<img src="https://pic1.afdiancdn.com/user/d2a3c12a3fb311efbea452540025c377/avatar/984ba710e9332d56b6b3cea6214b31ee_w438_h437_s38.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="leo11544" title="leo11544"/>
 </a>
 <a href="https://afdian.net/u/3736871e619911eb822d52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_37368" title="爱发电用户_37368"/>
@@ -111,6 +114,10 @@
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/0cb7c780a90911ef814752540025c377">
+爱发电用户_EBx8
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/d673ccaaae9011eeb2075254001e7c00">
 yanbsh
 </a>
@@ -120,7 +127,7 @@ yanbsh
 </a>
 <span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/d2a3c12a3fb311efbea452540025c377">
-爱发电用户_rptd
+leo11544
 </a>
 <span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/3736871e619911eb822d52540025c377">
