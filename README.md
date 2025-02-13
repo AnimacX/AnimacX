@@ -72,8 +72,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-02-13 11:09:55 -->
+<!-- update time: 2025-02-13 18:16:13 -->
 
+<a href="https://afdian.net/u/f53d7698cd6a11edb2b652540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_fGAn" title="爱发电用户_fGAn"/>
+</a>
 <a href="https://afdian.net/u/81d898dcbfaa11ecba7052540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Wellc" title="Wellc"/>
 </a>
@@ -126,6 +129,10 @@
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/f53d7698cd6a11edb2b652540025c377">
+爱发电用户_fGAn
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/81d898dcbfaa11ecba7052540025c377">
 Wellc
 </a>
