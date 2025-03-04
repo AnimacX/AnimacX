@@ -72,8 +72,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-03-03 18:16:31 -->
+<!-- update time: 2025-03-04 11:10:27 -->
 
+<a href="https://afdian.net/u/fe728a7ef8c311efbbca52540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_fe728" title="爱发电用户_fe728"/>
+</a>
 <a href="https://afdian.net/u/f53d7698cd6a11edb2b652540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_fGAn" title="爱发电用户_fGAn"/>
 </a>
@@ -129,6 +132,10 @@
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/fe728a7ef8c311efbbca52540025c377">
+爱发电用户_fe728
+</a>
+<span>( 2 次赞助 )</span><br>
 <a href="https://afdian.net/u/f53d7698cd6a11edb2b652540025c377">
 爱发电用户_fGAn
 </a>
