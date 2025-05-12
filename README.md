@@ -10,7 +10,7 @@
 
 <a href="https://afdian.com/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
 
-[🚀 下载最新版本](https://animacx.pressed.top/api/v1/release/download/latest?s=github.com)
+[🚀 下载最新版本](https://www.anix.app)
 (在爱发电赞助的用户，可以下载具有最新功能的测试版以及iOS安装包）
 
 ## 应用介绍
