@@ -32,8 +32,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-05-28 11:11:57 -->
+<!-- update time: 2025-05-28 18:17:24 -->
 
+<a href="https://afdian.net/u/cb4e7d0e3bd711f0ae2c52540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Dream星河" title="Dream星河"/>
+</a>
 <a href="https://afdian.net/u/173ee1f6294311f0b4075254001e7c00">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_173ee" title="爱发电用户_173ee"/>
 </a>
@@ -91,13 +94,14 @@
 <a href="https://afdian.net/u/a9f983fe9bd511e9ac0c52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/default-avatar@2x.png?imageView2/1/w/120/h/120" width="40" height="40" alt="linekm" title="linekm"/>
 </a>
-<a href="https://afdian.net/u/be22500cf9b511ee979b52540025c377">
-<img src="https://pic1.afdiancdn.com/user/be22500cf9b511ee979b52540025c377/avatar/07af9d57534e5bf2c1fd17251e1e49e3_w378_h377_s32.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="Jayden" title="Jayden"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/cb4e7d0e3bd711f0ae2c52540025c377">
+Dream星河
+</a>
+<span>( 2 次赞助 )</span><br>
 <a href="https://afdian.net/u/173ee1f6294311f0b4075254001e7c00">
 爱发电用户_173ee
 </a>
@@ -172,10 +176,6 @@ Fwz233
 <span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/a9f983fe9bd511e9ac0c52540025c377">
 linekm
-</a>
-<span>( 3 次赞助 )</span><br>
-<a href="https://afdian.net/u/be22500cf9b511ee979b52540025c377">
-Jayden
 </a>
 <span>( 3 次赞助 )</span><br>
 
