@@ -32,8 +32,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-06-03 11:12:00 -->
+<!-- update time: 2025-06-03 18:19:23 -->
 
+<a href="https://afdian.net/u/7c98e288401111f0969b52540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_7c98e" title="爱发电用户_7c98e"/>
+</a>
 <a href="https://afdian.net/u/ac33daf400ee11ec96c752540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_xHdy" title="爱发电用户_xHdy"/>
 </a>
@@ -91,13 +94,14 @@
 <a href="https://afdian.net/u/f4576fa4a2e111ecb05652540025c377">
 <img src="https://pic1.afdiancdn.com/user/f4576fa4a2e111ecb05652540025c377/avatar/38279ef8fc9dbdd10cd7696cc7e4f6ef_w1170_h1593_s1644.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="吐司鱼" title="吐司鱼"/>
 </a>
-<a href="https://afdian.net/u/7d4c38f27f9211ed9f2e52540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Fwz233" title="Fwz233"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/7c98e288401111f0969b52540025c377">
+爱发电用户_7c98e
+</a>
+<span>( 2 次赞助 )</span><br>
 <a href="https://afdian.net/u/ac33daf400ee11ec96c752540025c377">
 爱发电用户_xHdy
 </a>
@@ -174,10 +178,6 @@ HALFL1FE
 吐司鱼
 </a>
 <span>( 2 次赞助 )</span><br>
-<a href="https://afdian.net/u/7d4c38f27f9211ed9f2e52540025c377">
-Fwz233
-</a>
-<span>( 1 次赞助 )</span><br>
 
 </details>
 <!-- AFDIAN-ACTION:END -->
