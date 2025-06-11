@@ -32,8 +32,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-06-11 11:12:16 -->
+<!-- update time: 2025-06-11 18:19:00 -->
 
+<a href="https://afdian.net/u/778ec1064ddf11efb12952540025c377">
+<img src="https://pic1.afdiancdn.com/user/user_upload_osl/0a0244df3713ec447695670b72adaf88_w132_h132_s6.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="琉一手" title="琉一手"/>
+</a>
 <a href="https://afdian.net/u/7c98e288401111f0969b52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_7c98e" title="爱发电用户_7c98e"/>
 </a>
@@ -91,13 +94,14 @@
 <a href="https://afdian.net/u/fbef516c120311efb29552540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_wBqN" title="爱发电用户_wBqN"/>
 </a>
-<a href="https://afdian.net/u/f4576fa4a2e111ecb05652540025c377">
-<img src="https://pic1.afdiancdn.com/user/f4576fa4a2e111ecb05652540025c377/avatar/38279ef8fc9dbdd10cd7696cc7e4f6ef_w1170_h1593_s1644.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="吐司鱼" title="吐司鱼"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/778ec1064ddf11efb12952540025c377">
+琉一手
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/7c98e288401111f0969b52540025c377">
 爱发电用户_7c98e
 </a>
@@ -174,10 +178,6 @@ HALFL1FE
 爱发电用户_wBqN
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/f4576fa4a2e111ecb05652540025c377">
-吐司鱼
-</a>
-<span>( 2 次赞助 )</span><br>
 
 </details>
 <!-- AFDIAN-ACTION:END -->
