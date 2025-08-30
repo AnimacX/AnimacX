@@ -33,8 +33,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-08-29 18:17:51 -->
+<!-- update time: 2025-08-30 18:15:52 -->
 
+<a href="https://afdian.net/u/da571a76850c11f0ad7452540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_da571" title="爱发电用户_da571"/>
+</a>
 <a href="https://afdian.net/u/e7700c60910011ee976052540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_UMTr" title="爱发电用户_UMTr"/>
 </a>
@@ -92,13 +95,14 @@
 <a href="https://afdian.net/u/81d898dcbfaa11ecba7052540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Wellc" title="Wellc"/>
 </a>
-<a href="https://afdian.net/u/5e2a4270d49a11efa86e52540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="LandonDes" title="LandonDes"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/da571a76850c11f0ad7452540025c377">
+爱发电用户_da571
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/e7700c60910011ee976052540025c377">
 爱发电用户_UMTr
 </a>
@@ -173,10 +177,6 @@ Dream星河
 <span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/81d898dcbfaa11ecba7052540025c377">
 Wellc
-</a>
-<span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/5e2a4270d49a11efa86e52540025c377">
-LandonDes
 </a>
 <span>( 1 次赞助 )</span><br>
 
