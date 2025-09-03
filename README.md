@@ -33,8 +33,14 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-09-02 11:11:28 -->
+<!-- update time: 2025-09-03 11:10:52 -->
 
+<a href="https://afdian.net/u/be535ec0882211f0b32152540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_be535" title="爱发电用户_be535"/>
+</a>
+<a href="https://afdian.net/u/8f15009e113311efaa6752540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_8f150" title="爱发电用户_8f150"/>
+</a>
 <a href="https://afdian.net/u/da571a76850c11f0ad7452540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_da571" title="爱发电用户_da571"/>
 </a>
@@ -89,16 +95,18 @@
 <a href="https://afdian.net/u/fe728a7ef8c311efbbca52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_fe728" title="爱发电用户_fe728"/>
 </a>
-<a href="https://afdian.net/u/f53d7698cd6a11edb2b652540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_fGAn" title="爱发电用户_fGAn"/>
-</a>
-<a href="https://afdian.net/u/81d898dcbfaa11ecba7052540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Wellc" title="Wellc"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/be535ec0882211f0b32152540025c377">
+爱发电用户_be535
+</a>
+<span>( 1 次赞助 )</span><br>
+<a href="https://afdian.net/u/8f15009e113311efaa6752540025c377">
+爱发电用户_8f150
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/da571a76850c11f0ad7452540025c377">
 爱发电用户_da571
 </a>
@@ -171,14 +179,6 @@ Dream星河
 爱发电用户_fe728
 </a>
 <span>( 2 次赞助 )</span><br>
-<a href="https://afdian.net/u/f53d7698cd6a11edb2b652540025c377">
-爱发电用户_fGAn
-</a>
-<span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/81d898dcbfaa11ecba7052540025c377">
-Wellc
-</a>
-<span>( 1 次赞助 )</span><br>
 
 </details>
 <!-- AFDIAN-ACTION:END -->
