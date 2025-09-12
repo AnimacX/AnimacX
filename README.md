@@ -33,8 +33,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-09-11 18:15:19 -->
+<!-- update time: 2025-09-12 11:10:09 -->
 
+<a href="https://afdian.net/u/1d0c0de6d0d111eebcfd52540025c377">
+<img src="https://pic1.afdiancdn.com/user/user_upload_osl/55009e8ad22f453a002e2e5e8854d9d9_w132_h132_s3.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="宅男otaku \curious" title="宅男otaku \curious"/>
+</a>
 <a href="https://afdian.net/u/00ac871eb86411ee8ec352540025c377">
 <img src="https://pic1.afdiancdn.com/user/user_upload_osl/ae32a721300407a55395c6018b16d843_w132_h132_s4.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="南宁千反田" title="南宁千反田"/>
 </a>
@@ -92,13 +95,14 @@
 <a href="https://afdian.net/u/173ee1f6294311f0b4075254001e7c00">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_173ee" title="爱发电用户_173ee"/>
 </a>
-<a href="https://afdian.net/u/aadf64383b2111ee97485254001e7c00">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="一般路过的蓬栽" title="一般路过的蓬栽"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.net/u/1d0c0de6d0d111eebcfd52540025c377">
+宅男otaku \curious
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.net/u/00ac871eb86411ee8ec352540025c377">
 南宁千反田
 </a>
@@ -173,10 +177,6 @@ Dream星河
 <span>( 2 次赞助 )</span><br>
 <a href="https://afdian.net/u/173ee1f6294311f0b4075254001e7c00">
 爱发电用户_173ee
-</a>
-<span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/aadf64383b2111ee97485254001e7c00">
-一般路过的蓬栽
 </a>
 <span>( 1 次赞助 )</span><br>
 
