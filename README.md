@@ -33,154 +33,155 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-09-13 11:09:21 -->
+<!-- update time: 2025-09-13 18:14:52 -->
 
-<a href="https://afdian.net/u/1d0c0de6d0d111eebcfd52540025c377">
+<a href="https://afdian.com/u/ae51632c97b711eda0db5254001e7c00">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_ae516" title="爱发电用户_ae516"/>
+</a>
+<a href="https://afdian.com/u/1d0c0de6d0d111eebcfd52540025c377">
 <img src="https://pic1.afdiancdn.com/user/user_upload_osl/55009e8ad22f453a002e2e5e8854d9d9_w132_h132_s3.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="宅男otaku \curious" title="宅男otaku \curious"/>
 </a>
-<a href="https://afdian.net/u/00ac871eb86411ee8ec352540025c377">
+<a href="https://afdian.com/u/00ac871eb86411ee8ec352540025c377">
 <img src="https://pic1.afdiancdn.com/user/user_upload_osl/ae32a721300407a55395c6018b16d843_w132_h132_s4.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="南宁千反田" title="南宁千反田"/>
 </a>
-<a href="https://afdian.net/u/be535ec0882211f0b32152540025c377">
+<a href="https://afdian.com/u/be535ec0882211f0b32152540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_be535" title="爱发电用户_be535"/>
 </a>
-<a href="https://afdian.net/u/8f15009e113311efaa6752540025c377">
+<a href="https://afdian.com/u/8f15009e113311efaa6752540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_8f150" title="爱发电用户_8f150"/>
 </a>
-<a href="https://afdian.net/u/da571a76850c11f0ad7452540025c377">
+<a href="https://afdian.com/u/da571a76850c11f0ad7452540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_da571" title="爱发电用户_da571"/>
 </a>
-<a href="https://afdian.net/u/e7700c60910011ee976052540025c377">
+<a href="https://afdian.com/u/e7700c60910011ee976052540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_UMTr" title="爱发电用户_UMTr"/>
 </a>
-<a href="https://afdian.net/u/1d2332d2f6b211ec901352540025c377">
+<a href="https://afdian.com/u/1d2332d2f6b211ec901352540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_1d233" title="爱发电用户_1d233"/>
 </a>
-<a href="https://afdian.net/u/be9ba6768ebd11efb19752540025c377">
+<a href="https://afdian.com/u/be9ba6768ebd11efb19752540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_be9ba" title="爱发电用户_be9ba"/>
 </a>
-<a href="https://afdian.net/u/a214770a1f8611ee9af452540025c377">
+<a href="https://afdian.com/u/a214770a1f8611ee9af452540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="永恒" title="永恒"/>
 </a>
-<a href="https://afdian.net/u/4a0e451481ca11ec9f6252540025c377">
+<a href="https://afdian.com/u/4a0e451481ca11ec9f6252540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="乔梦" title="乔梦"/>
 </a>
-<a href="https://afdian.net/u/a0714f006ccc11f0bf4e52540025c377">
+<a href="https://afdian.com/u/a0714f006ccc11f0bf4e52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_a0714" title="爱发电用户_a0714"/>
 </a>
-<a href="https://afdian.net/u/b164ad3a35f211ec83ee52540025c377">
+<a href="https://afdian.com/u/b164ad3a35f211ec83ee52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_3m9r" title="爱发电用户_3m9r"/>
 </a>
-<a href="https://afdian.net/u/4f6bacde567b11f091f752540025c377">
+<a href="https://afdian.com/u/4f6bacde567b11f091f752540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="s200801005" title="s200801005"/>
 </a>
-<a href="https://afdian.net/u/8e00b7f84caa11f0a2ab52540025c377">
+<a href="https://afdian.com/u/8e00b7f84caa11f0a2ab52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="wisdoms" title="wisdoms"/>
 </a>
-<a href="https://afdian.net/u/9e427c8252a811eca3a552540025c377">
+<a href="https://afdian.com/u/9e427c8252a811eca3a552540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_9e427" title="爱发电用户_9e427"/>
 </a>
-<a href="https://afdian.net/u/778ec1064ddf11efb12952540025c377">
+<a href="https://afdian.com/u/778ec1064ddf11efb12952540025c377">
 <img src="https://pic1.afdiancdn.com/user/user_upload_osl/0a0244df3713ec447695670b72adaf88_w132_h132_s6.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="琉一手" title="琉一手"/>
 </a>
-<a href="https://afdian.net/u/7c98e288401111f0969b52540025c377">
+<a href="https://afdian.com/u/7c98e288401111f0969b52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_7c98e" title="爱发电用户_7c98e"/>
 </a>
-<a href="https://afdian.net/u/ac33daf400ee11ec96c752540025c377">
+<a href="https://afdian.com/u/ac33daf400ee11ec96c752540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_xHdy" title="爱发电用户_xHdy"/>
 </a>
-<a href="https://afdian.net/u/cb4e7d0e3bd711f0ae2c52540025c377">
+<a href="https://afdian.com/u/cb4e7d0e3bd711f0ae2c52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Dream星河" title="Dream星河"/>
-</a>
-<a href="https://afdian.net/u/173ee1f6294311f0b4075254001e7c00">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_173ee" title="爱发电用户_173ee"/>
 </a>
 
 <details>
 <summary>赞助者列表</summary>
 
-<a href="https://afdian.net/u/1d0c0de6d0d111eebcfd52540025c377">
+<a href="https://afdian.com/u/ae51632c97b711eda0db5254001e7c00">
+爱发电用户_ae516
+</a>
+<span>( 2 次赞助 )</span><br>
+<a href="https://afdian.com/u/1d0c0de6d0d111eebcfd52540025c377">
 宅男otaku \curious
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/00ac871eb86411ee8ec352540025c377">
+<a href="https://afdian.com/u/00ac871eb86411ee8ec352540025c377">
 南宁千反田
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/be535ec0882211f0b32152540025c377">
+<a href="https://afdian.com/u/be535ec0882211f0b32152540025c377">
 爱发电用户_be535
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/8f15009e113311efaa6752540025c377">
+<a href="https://afdian.com/u/8f15009e113311efaa6752540025c377">
 爱发电用户_8f150
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/da571a76850c11f0ad7452540025c377">
+<a href="https://afdian.com/u/da571a76850c11f0ad7452540025c377">
 爱发电用户_da571
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/e7700c60910011ee976052540025c377">
+<a href="https://afdian.com/u/e7700c60910011ee976052540025c377">
 爱发电用户_UMTr
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/1d2332d2f6b211ec901352540025c377">
+<a href="https://afdian.com/u/1d2332d2f6b211ec901352540025c377">
 爱发电用户_1d233
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/be9ba6768ebd11efb19752540025c377">
+<a href="https://afdian.com/u/be9ba6768ebd11efb19752540025c377">
 爱发电用户_be9ba
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/a214770a1f8611ee9af452540025c377">
+<a href="https://afdian.com/u/a214770a1f8611ee9af452540025c377">
 永恒
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/4a0e451481ca11ec9f6252540025c377">
+<a href="https://afdian.com/u/4a0e451481ca11ec9f6252540025c377">
 乔梦
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/a0714f006ccc11f0bf4e52540025c377">
+<a href="https://afdian.com/u/a0714f006ccc11f0bf4e52540025c377">
 爱发电用户_a0714
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/b164ad3a35f211ec83ee52540025c377">
+<a href="https://afdian.com/u/b164ad3a35f211ec83ee52540025c377">
 爱发电用户_3m9r
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/4f6bacde567b11f091f752540025c377">
+<a href="https://afdian.com/u/4f6bacde567b11f091f752540025c377">
 s200801005
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/8e00b7f84caa11f0a2ab52540025c377">
+<a href="https://afdian.com/u/8e00b7f84caa11f0a2ab52540025c377">
 wisdoms
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/9e427c8252a811eca3a552540025c377">
+<a href="https://afdian.com/u/9e427c8252a811eca3a552540025c377">
 爱发电用户_9e427
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/778ec1064ddf11efb12952540025c377">
+<a href="https://afdian.com/u/778ec1064ddf11efb12952540025c377">
 琉一手
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/7c98e288401111f0969b52540025c377">
+<a href="https://afdian.com/u/7c98e288401111f0969b52540025c377">
 爱发电用户_7c98e
 </a>
 <span>( 2 次赞助 )</span><br>
-<a href="https://afdian.net/u/ac33daf400ee11ec96c752540025c377">
+<a href="https://afdian.com/u/ac33daf400ee11ec96c752540025c377">
 爱发电用户_xHdy
 </a>
 <span>( 1 次赞助 )</span><br>
-<a href="https://afdian.net/u/cb4e7d0e3bd711f0ae2c52540025c377">
+<a href="https://afdian.com/u/cb4e7d0e3bd711f0ae2c52540025c377">
 Dream星河
 </a>
 <span>( 2 次赞助 )</span><br>
-<a href="https://afdian.net/u/173ee1f6294311f0b4075254001e7c00">
-爱发电用户_173ee
-</a>
-<span>( 1 次赞助 )</span><br>
 
 </details>
+
 <!-- AFDIAN-ACTION:END -->
 
 ### macOS UI界面
