@@ -1,4 +1,4 @@
-﻿<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
+<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
 <p align="right">Icon by <a href="https://www.icons8.com">icons8</a></p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/animacx/animacx?include_prereleases&style=for-the-badge)
@@ -27,6 +27,7 @@
 - [x] 磁力链接下载：PikPak、Aria2
 - [x] 关联bangumi评论区
 - [x] 同步bangumi观看进度和追番情况（单向）
+- [ ] 支持 ANI-RSS 私有资源库
 
 ## 赞助者
 
