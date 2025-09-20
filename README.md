@@ -29,6 +29,8 @@
 - [x] 同步bangumi观看进度和追番情况（单向）
 - [ ] 支持 ANI-RSS 私有资源库
 
+追番神器 [ANI-RSS](https://github.com/wushuo894/ani-rss) 现已支持在网页跳转AnimacX
+
 ## 赞助者
 
 感谢这些来自爱发电的赞助者：
