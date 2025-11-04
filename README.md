@@ -36,8 +36,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-11-03 18:18:55 -->
+<!-- update time: 2025-11-04 11:12:08 -->
 
+<a href="https://afdian.com/u/59a2a852b95311f0be7d52540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_59a2a" title="爱发电用户_59a2a"/>
+</a>
 <a href="https://afdian.com/u/494fb6c4ad7411f0af935254001e7c00">
 <img src="https://pic1.afdiancdn.com/user/494fb6c4ad7411f0af935254001e7c00/avatar/de951c1d7476c0a5e8ca2bbd26840ed1_w1080_h2347_s1043.png?imageView2/1/w/120/h/120" width="40" height="40" alt="huanyin123" title="huanyin123"/>
 </a>
@@ -95,13 +98,14 @@
 <a href="https://afdian.com/u/9e427c8252a811eca3a552540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_9e427" title="爱发电用户_9e427"/>
 </a>
-<a href="https://afdian.com/u/778ec1064ddf11efb12952540025c377">
-<img src="https://pic1.afdiancdn.com/user/user_upload_osl/0a0244df3713ec447695670b72adaf88_w132_h132_s6.jpeg?imageView2/1/w/120/h/120" width="40" height="40" alt="琉一手" title="琉一手"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.com/u/59a2a852b95311f0be7d52540025c377">
+爱发电用户_59a2a
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.com/u/494fb6c4ad7411f0af935254001e7c00">
 huanyin123
 </a>
@@ -176,10 +180,6 @@ wisdoms
 <span>( 1 次赞助 )</span><br>
 <a href="https://afdian.com/u/9e427c8252a811eca3a552540025c377">
 爱发电用户_9e427
-</a>
-<span>( 1 次赞助 )</span><br>
-<a href="https://afdian.com/u/778ec1064ddf11efb12952540025c377">
-琉一手
 </a>
 <span>( 1 次赞助 )</span><br>
 
