@@ -2,6 +2,7 @@
 <p align="right">Icon by <a href="https://www.icons8.com">icons8</a></p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/animacx/animacx?include_prereleases&style=for-the-badge)
+![Github Download](https://img.shields.io/github/downloads/animacx/animacx/total?style=for-the-badge&label=github%20downloads)
 
 
 # AnimacX - Anime for mac
