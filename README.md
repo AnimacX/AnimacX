@@ -37,8 +37,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-11-11 11:12:08 -->
+<!-- update time: 2025-11-11 18:19:05 -->
 
+<a href="https://afdian.com/u/450de2ae91af11edbf8a5254001e7c00">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_EA3K" title="爱发电用户_EA3K"/>
+</a>
 <a href="https://afdian.com/u/a5ca30aa33d111ef949652540025c377">
 <img src="https://pic1.afdiancdn.com/user/a5ca30aa33d111ef949652540025c377/avatar/7b350373ab4e07343c7bad2a03ce9697_w239_h239_s124.png?imageView2/1/w/120/h/120" width="40" height="40" alt="Betasecond" title="Betasecond"/>
 </a>
@@ -96,13 +99,14 @@
 <a href="https://afdian.com/u/4f6bacde567b11f091f752540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120" width="40" height="40" alt="s200801005" title="s200801005"/>
 </a>
-<a href="https://afdian.com/u/8e00b7f84caa11f0a2ab52540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="wisdoms" title="wisdoms"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.com/u/450de2ae91af11edbf8a5254001e7c00">
+爱发电用户_EA3K
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.com/u/a5ca30aa33d111ef949652540025c377">
 Betasecond
 </a>
@@ -177,10 +181,6 @@ huanyin123
 <span>( 1 次赞助 )</span><br>
 <a href="https://afdian.com/u/4f6bacde567b11f091f752540025c377">
 s200801005
-</a>
-<span>( 1 次赞助 )</span><br>
-<a href="https://afdian.com/u/8e00b7f84caa11f0a2ab52540025c377">
-wisdoms
 </a>
 <span>( 1 次赞助 )</span><br>
 
