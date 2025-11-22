@@ -37,7 +37,7 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2025-11-22 11:09:55 -->
+<!-- update time: 2025-11-22 18:17:44 -->
 
 <a href="https://afdian.com/u/450de2ae91af11edbf8a5254001e7c00">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_EA3K" title="爱发电用户_EA3K"/>
@@ -166,7 +166,7 @@ huanyin123
 <a href="https://afdian.com/u/a214770a1f8611ee9af452540025c377">
 永恒
 </a>
-<span>( 1 次赞助 )</span><br>
+<span>( 2 次赞助 )</span><br>
 <a href="https://afdian.com/u/4a0e451481ca11ec9f6252540025c377">
 乔梦
 </a>
