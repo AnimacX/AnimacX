@@ -37,8 +37,11 @@
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2026-01-20 11:18:29 -->
+<!-- update time: 2026-01-20 18:26:16 -->
 
+<a href="https://afdian.com/u/75c26b06c87611ed883052540025c377">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_aqUK" title="爱发电用户_aqUK"/>
+</a>
 <a href="https://afdian.com/u/d62a08eada2111f0affa52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_d62a0" title="爱发电用户_d62a0"/>
 </a>
@@ -96,13 +99,14 @@
 <a href="https://afdian.com/u/4a0e451481ca11ec9f6252540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="乔梦" title="乔梦"/>
 </a>
-<a href="https://afdian.com/u/a0714f006ccc11f0bf4e52540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_a0714" title="爱发电用户_a0714"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.com/u/75c26b06c87611ed883052540025c377">
+爱发电用户_aqUK
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.com/u/d62a08eada2111f0affa52540025c377">
 爱发电用户_d62a0
 </a>
@@ -177,10 +181,6 @@ huanyin123
 <span>( 2 次赞助 )</span><br>
 <a href="https://afdian.com/u/4a0e451481ca11ec9f6252540025c377">
 乔梦
-</a>
-<span>( 1 次赞助 )</span><br>
-<a href="https://afdian.com/u/a0714f006ccc11f0bf4e52540025c377">
-爱发电用户_a0714
 </a>
 <span>( 1 次赞助 )</span><br>
 
