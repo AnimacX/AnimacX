@@ -30,7 +30,7 @@ AnimacX 是一款面向 macOS 与 iOS 的番剧播放器，将本地播放、在
 - [x] 追番管理：支持自动关联**部分**在线资源、整理未看番剧并一键加入播放列表
 - [x] Bangumi 联动：支持评论区关联、消息提醒，以及观看进度和追番状态同步（单向）
 - [x] 资源下载：支持通过 PikPak、Aria2 下载磁力链接
-- [x] 私有资源库：支持 ANI-RSS 私有资源库与网页跳转联动
+- [x] 私有资源库：支持 ANI-RSS 私有资源库与网页跳转联动、支持Jellyfin/Emby资源库
 
 追番神器 [ANI-RSS](https://github.com/wushuo894/ani-rss) 现已支持在网页跳转AnimacX
 
