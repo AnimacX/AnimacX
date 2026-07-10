@@ -39,8 +39,11 @@ AnimacX 是一款面向 macOS 与 iOS 的番剧播放器，将本地播放、在
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2026-07-09 19:25:53 -->
+<!-- update time: 2026-07-10 13:05:51 -->
 
+<a href="https://afdian.com/u/19ea8c4e7bd511f1af215254001e7c00">
+<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_19ea8" title="爱发电用户_19ea8"/>
+</a>
 <a href="https://afdian.com/u/26bb0380c2c111ecb94c52540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_MYns" title="爱发电用户_MYns"/>
 </a>
@@ -98,13 +101,14 @@ AnimacX 是一款面向 macOS 与 iOS 的番剧播放器，将本地播放、在
 <a href="https://afdian.com/u/1d2332d2f6b211ec901352540025c377">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_1d233" title="爱发电用户_1d233"/>
 </a>
-<a href="https://afdian.com/u/be9ba6768ebd11efb19752540025c377">
-<img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_be9ba" title="爱发电用户_be9ba"/>
-</a>
 
 <details>
 <summary>赞助者列表</summary>
 
+<a href="https://afdian.com/u/19ea8c4e7bd511f1af215254001e7c00">
+爱发电用户_19ea8
+</a>
+<span>( 1 次赞助 )</span><br>
 <a href="https://afdian.com/u/26bb0380c2c111ecb94c52540025c377">
 爱发电用户_MYns
 </a>
@@ -179,10 +183,6 @@ huanyin123
 <span>( 1 次赞助 )</span><br>
 <a href="https://afdian.com/u/1d2332d2f6b211ec901352540025c377">
 爱发电用户_1d233
-</a>
-<span>( 1 次赞助 )</span><br>
-<a href="https://afdian.com/u/be9ba6768ebd11efb19752540025c377">
-爱发电用户_be9ba
 </a>
 <span>( 1 次赞助 )</span><br>
 
