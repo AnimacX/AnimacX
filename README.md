@@ -42,7 +42,7 @@ AnimacX 是一款面向 macOS tvOS 与 iOS 的番剧播放器，将本地播放�
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2026-08-01 18:57:59 -->
+<!-- update time: 2026-08-02 11:56:11 -->
 
 <a href="https://afdian.com/u/97407e6ad45811edbd995254001e7c00">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120" width="40" height="40" alt="爱发电用户_4w8q" title="爱发电用户_4w8q"/>
