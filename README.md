@@ -12,6 +12,7 @@
 <a href="https://afdian.com/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
 
 [🚀 下载最新版本](https://www.anix.app)
+
 [立即加入 TestFlight](https://testflight.apple.com/join/zCpAVFFj)
 
 ## 应用介绍
