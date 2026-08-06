@@ -1,4 +1,4 @@
-﻿<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
+<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
 <p align="right">Icon by <a href="https://www.icons8.com">icons8</a></p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/animacx/animacx?include_prereleases&style=for-the-badge)
@@ -12,7 +12,7 @@
 <a href="https://afdian.com/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
 
 [🚀 下载最新版本](https://www.anix.app)
-(在爱发电赞助的用户，可以下载具有最新功能的测试版以及iOS安装包）
+[立即加入 TestFlight](https://testflight.apple.com/join/zCpAVFFj)
 
 ## 应用介绍
 
