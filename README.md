@@ -1,4 +1,4 @@
-﻿<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
+<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
 <p align="right">Icon by <a href="https://www.icons8.com">icons8</a></p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/animacx/animacx?include_prereleases&style=for-the-badge)
@@ -30,7 +30,7 @@ AnimacX 是一款面向 macOS tvOS 与 iOS 的番剧播放器，将本地播放�
 - [x] 播放与弹幕：支持本地视频、网络视频、手动加载本地弹幕、自动关联云端弹幕、发送弹幕、支持弹幕互动
 - [x] 弹幕管理：支持自定义屏蔽与 AI 个性化弹幕过滤
 - [x] 番剧识别：自动识别番剧并关联对应信息
-- [x] 追番管理：支持自动关联**部分**在线资源、整理未看番剧并一键加入播放列表
+- [x] 追番管理：支持自动整理未看番剧并一键加入播放列表
 - [x] Bangumi 联动：支持评论区关联、消息提醒，以及观看进度和追番状态同步（单向）
 - [x] 资源下载：支持通过 PikPak、Aria2 下载磁力链接
 - [x] 私有资源库：支持 ANI-RSS 私有资源库与网页跳转联动、支持Jellyfin/Emby资源库
