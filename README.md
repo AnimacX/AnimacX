@@ -1,4 +1,4 @@
-<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
+﻿<img src="https://github.com/AnimacX/AnimacX/assets/55338151/d1b7a496-5426-46b3-9166-81faf2a5a83a" align="center" />
 <p align="right">Icon by <a href="https://www.icons8.com">icons8</a></p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/animacx/animacx?include_prereleases&style=for-the-badge)
@@ -43,7 +43,7 @@ AnimacX 是一款面向 macOS tvOS 与 iOS 的番剧播放器，将本地播放�
 感谢这些来自爱发电的赞助者：
 
 <!-- AFDIAN-ACTION:START -->
-<!-- update time: 2026-08-21 18:25:10 -->
+<!-- update time: 2026-08-22 11:13:58 -->
 
 <a href="https://afdian.com/u/2dd0530a9cc911f1831a5254001e7c00">
 <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120" width="40" height="40" alt="sevl1bin" title="sevl1bin"/>
