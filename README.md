@@ -7,7 +7,7 @@
 
 # AnimacX - Anime for mac
 
->（弹弹Play MacOS版）一款可以追番的弹幕视频播放器
+一款可以追番的弹幕视频播放器
 
 <a href="https://afdian.com/a/animacx"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a>
 
@@ -17,7 +17,7 @@
 
 ## 应用介绍
 
-*目前仅支持`MacOS 14.0` `tvOS 17.0` 和`iOS 17.0`以上的系统*
+*目前仅支持`MacOS 14.0` `tvOS 17.0` 和`iOS 17.0`以上的系统，iPad、visonPro、iPhone 共用一个版本*
 
 AnimacX 是一款面向 macOS tvOS 与 iOS 的番剧播放器，将本地播放、在线视频、弹幕互动与追番管理整合到同一个应用里。你可以直接观看本地或网络视频，自动识别番剧并关联弹幕、番剧资讯、Bangumi 条目与个人追番状态，把“找资源、看视频、发弹幕、记进度”串成一条更顺手的追番流程。
 
